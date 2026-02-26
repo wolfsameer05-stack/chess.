@@ -1,0 +1,649 @@
+main{
+    height: 640px;
+    width: 640px;
+    position: absolute;
+    border: 3px solid #000;
+    margin-left:320px ;
+    border-right:4.5px solid #000;
+}
+
+.chess1{
+    position: absolute;
+}
+
+.a1{
+    height: 80px;
+    width: 80px;
+    background-color:rgb(255,255,255);
+    position: absolute;
+    border: 1px solid #000;
+    color:black;
+}
+
+.b1{
+    height: 80px;
+    width: 80px;
+    background-color:rgb(0,0,0);
+    position: absolute;
+    border: 1px solid #000;
+    margin-left: 80px;
+}
+
+.c1{
+    height: 80px;
+    width: 80px;
+    background-color:rgb(255, 255, 255);
+    position: absolute;
+    border: 1px solid #000;
+    margin-left: 160px;
+}
+.d1{
+    height: 80px;
+    width: 80px;
+    background-color:rgb(0,0,0);
+    position: absolute;
+    border: 1px solid #000;
+    margin-left: 240px;
+}
+.e1{
+    height: 80px;
+    width: 80px;
+    background-color:rgb(255,255,255);
+    position: absolute;
+    border: 1px solid #000;
+    margin-left: 320px;
+}
+
+.f1{
+    height: 80px;
+    width: 80px;
+    background-color:rgb(0,0,0);
+    position: absolute;
+    border: 1px solid #000;
+    margin-left: 400px;
+}
+
+.g1{
+    height: 80px;
+    width: 80px;
+    background-color:rgb(255,255,255);
+    position: absolute;
+    border: 1px solid #000;
+    margin-left: 480px;
+}
+
+.h1{
+    height: 80px;
+    width: 80px;
+    background-color:rgb(0,0,0);
+    position: absolute;
+    border: 1px solid #000;
+    margin-left: 560px;
+}
+
+.chess2{
+    position:absolute;
+    margin-left: 480px;
+}
+
+.a2{
+    height: 80px;
+    width: 80px;
+    background-color:rgb(0,0,0);
+    position: absolute;
+    border: 1px solid #000;
+    margin-top: 80px;
+}
+
+.b2{
+    height: 80px;
+    width: 80px;
+    background-color:rgb(255,255,255);
+    position: absolute;
+    border: 1px solid #000;
+    margin-top: 160px;
+}
+
+.c2{
+    height: 80px;
+    width: 80px;
+    background-color:rgb(0,0,0);
+    position: absolute;
+    border: 1px solid #000;
+    margin-top: 240px;
+}
+
+.d2{
+    height: 80px;
+    width: 80px;
+    background-color:rgb(255,255,255);
+    position: absolute;
+    border: 1px solid #000;
+    margin-top: 320px;
+}.e2{
+    height: 80px;
+    width: 80px;
+    background-color:rgb(0,0,0);
+    position: absolute;
+    border: 1px solid #000;
+    margin-top: 400px;
+}
+
+.f2{
+    height: 80px;
+    width: 80px;
+    background-color:rgb(255,255,255);
+    position: absolute;
+    border: 1px solid #000;
+    margin-top: 480px;
+}
+
+.g2{
+    height: 80px;
+    width: 80px;
+    background-color:rgb(0,0,0);
+    position: absolute;
+    border: 1px solid #000;
+    margin-top: 560px;
+    color: white;
+}
+
+.chess3{
+    position:absolute;
+    margin-left: 320px;
+}
+
+.a3{
+    height: 80px;
+    width: 80px;
+    background-color:rgb(0,0,0);
+    position: absolute;
+    border: 1px solid #000;
+    margin-top: 80px;
+}
+
+.b3{
+    height: 80px;
+    width: 80px;
+    background-color:rgb(255,255,255);
+    position: absolute;
+    border: 1px solid #000;
+    margin-top: 160px;
+}
+
+.c3{
+    height: 80px;
+    width: 80px;
+    background-color:rgb(0,0,0);
+    position: absolute;
+    border: 1px solid #000;
+    margin-top: 240px;
+}
+
+.d3{
+    height: 80px;
+    width: 80px;
+    background-color:rgb(255,255,255);
+    position: absolute;
+    border: 1px solid #000;
+    margin-top: 320px;
+}
+
+.e3{
+    height: 80px;
+    width: 80px;
+    background-color:rgb(0,0,0);
+    position: absolute;
+    border: 1px solid #000;
+    margin-top: 400px;
+}
+
+.f3{
+    height: 80px;
+    width: 80px;
+    background-color:rgb(255,255,255);
+    position: absolute;
+    border: 1px solid #000;
+    margin-top: 480px;
+}
+
+.g3{
+    height: 80px;
+    width: 80px;
+    background-color:rgb(0,0,0);
+    position: absolute;
+    border: 1px solid #000;
+    margin-top: 560px;
+    color: white;
+}
+
+
+.chess4{
+    position:absolute;
+    margin-left:160px;
+}
+
+.a4{
+    height: 80px;
+    width: 80px;
+    background-color:rgb(0,0,0);
+    position: absolute;
+    border: 1px solid #000;
+    margin-top: 80px;
+}
+
+.b4{
+    height: 80px;
+    width: 80px;
+    background-color:rgb(255,255,255);
+    position: absolute;
+    border: 1px solid #000;
+    margin-top: 160px;
+}
+
+.c4{
+    height: 80px;
+    width: 80px;
+    background-color:rgb(0,0,0);
+    position: absolute;
+    border: 1px solid #000;
+    margin-top: 240px;
+}
+
+.d4{
+    height: 80px;
+    width: 80px;
+    background-color:rgb(255,255,255);
+    position: absolute;
+    border: 1px solid #000;
+    margin-top: 320px;
+}
+
+.e4{
+    height: 80px;
+    width: 80px;
+    background-color:rgb(0,0,0);
+    position: absolute;
+    border: 1px solid #000;
+    margin-top: 400px;
+}
+
+.f4{
+    height: 80px;
+    width: 80px;
+    background-color:rgb(255,255,255);
+    position: absolute;
+    border: 1px solid #000;
+    margin-top: 480px;
+}
+
+.g4{
+    height: 80px;
+    width: 80px;
+    background-color:rgb(0,0,0);
+    position: absolute;
+    border: 1px solid #000;
+    margin-top: 560px;
+    color: white;
+}
+
+.chess5{
+    position:absolute;
+}
+
+.a5{
+    height: 80px;
+    width: 80px;
+    background-color:rgb(0,0,0);
+    position: absolute;
+    border: 1px solid #000;
+    margin-top: 80px;
+    color: white;
+}
+
+.b5{
+    height: 80px;
+    width: 80px;
+    background-color:rgb(255,255,255);
+    position: absolute;
+    border: 1px solid #000;
+    margin-top: 160px;
+    color: black;
+}
+
+.c5{
+    height: 80px;
+    width: 80px;
+    background-color:rgb(0,0,0);
+    position: absolute;
+    border: 1px solid #000;
+    margin-top: 240px;
+    color: white;
+}
+
+.d5{
+    height: 80px;
+    width: 80px;
+    background-color:rgb(255,255,255);
+    position: absolute;
+    border: 1px solid #000;
+    margin-top: 320px;
+    color: black;
+}
+
+.e5{
+    height: 80px;
+    width: 80px;
+    background-color:rgb(0,0,0);
+    position: absolute;
+    border: 1px solid #000;
+    margin-top: 400px;
+    color: white;
+}
+
+.f5{
+    height: 80px;
+    width: 80px;
+    background-color:rgb(255,255,255);
+    position: absolute;
+    border: 1px solid #000;
+    margin-top: 480px;
+    color: black;
+}
+
+.g5{
+    height: 80px;
+    width: 80px;
+    background-color:rgb(0,0,0);
+    position: absolute;
+    border: 1px solid #000;
+    margin-top: 560px;
+    color: white;
+
+}
+
+.chess6{
+    position:absolute;
+    margin-left: 240px;
+}
+
+.a6{
+    height: 80px;
+    width: 80px;
+    background-color:rgb(255,255,255);
+    position: absolute;
+    border: 1px solid #000;
+    margin-top: 80px;
+}
+
+.b6{
+    height: 80px;
+    width: 80px;
+    background-color:rgb(0,0,0);
+    position: absolute;
+    border: 1px solid #000;
+    margin-top: 160px;
+}
+
+.c6{
+    height: 80px;
+    width: 80px;
+    background-color:rgb(255,255,255);
+    position: absolute;
+    border: 1px solid #000;
+    margin-top: 240px;
+}
+
+.d6{
+    height: 80px;
+    width: 80px;
+    background-color:rgb(0,0,0);
+    position: absolute;
+    border: 1px solid #000;
+    margin-top: 320px;
+}
+
+.e6{
+    height: 80px;
+    width: 80px;
+    background-color:rgb(255,255,255);
+    position: absolute;
+    border: 1px solid #000;
+    margin-top: 400px;
+}
+
+.f6{
+    height: 80px;
+    width: 80px;
+    background-color:rgb(0,0,0);
+    position: absolute;
+    border: 1px solid #000;
+    margin-top: 480px;
+}
+
+.g6{
+    height: 80px;
+    width: 80px;
+    background-color:rgb(255,255,255);
+    position: absolute;
+    border: 1px solid #000;
+    margin-top: 560px;
+    color: black;
+}
+
+
+.chess7{
+    position:absolute;
+    margin-left: 80px;
+}
+
+.a7{
+    height: 80px;
+    width: 80px;
+    background-color:rgb(255,255,255);
+    position: absolute;
+    border: 1px solid #000;
+    margin-top: 80px;
+
+}
+
+.b7{
+    height: 80px;
+    width: 80px;
+    background-color:rgb(0,0,0);
+    position: absolute;
+    border: 1px solid #000;
+    margin-top: 160px;
+}
+
+.c7{
+    height: 80px;
+    width: 80px;
+    background-color:rgb(255,255,255);
+    position: absolute;
+    border: 1px solid #000;
+    margin-top: 240px;
+}
+
+.d7{
+    height: 80px;
+    width: 80px;
+    background-color:rgb(0,0,0);
+    position: absolute;
+    border: 1px solid #000;
+    margin-top: 320px;
+}
+
+.e7{
+    height: 80px;
+    width: 80px;
+    background-color:rgb(255,255,255);
+    position: absolute;
+    border: 1px solid #000;
+    margin-top: 400px;
+}
+
+.f7{
+    height: 80px;
+    width: 80px;
+    background-color:rgb(0,0,0);
+    position: absolute;
+    border: 1px solid #000;
+    margin-top: 480px;
+}
+
+.g7{
+    height: 80px;
+    width: 80px;
+    background-color:rgb(255,255,255);
+    position: absolute;
+    border: 1px solid #000;
+    margin-top: 560px;
+    color: black;
+}
+
+.chess8{
+    position:absolute;
+    margin-left: 400px;
+}
+
+.a8{
+    height: 80px;
+    width: 80px;
+    background-color:rgb(255,255,255);
+    position: absolute;
+    border: 1px solid #000;
+    margin-top: 80px;
+
+}
+
+.b8{
+    height: 80px;
+    width: 80px;
+    background-color:rgb(0,0,0);
+    position: absolute;
+    border: 1px solid #000;
+    margin-top: 160px;
+}
+
+.c8{
+    height: 80px;
+    width: 80px;
+    background-color:rgb(255,255,255);
+    position: absolute;
+    border: 1px solid #000;
+    margin-top: 240px;
+}
+
+.d8{
+    height: 80px;
+    width: 80px;
+    background-color:rgb(0,0,0);
+    position: absolute;
+    border: 1px solid #000;
+    margin-top: 320px;
+}
+
+.e8{
+    height: 80px;
+    width: 80px;
+    background-color:rgb(255,255,255);
+    position: absolute;
+    border: 1px solid #000;
+    margin-top: 400px;
+}
+
+.f8{
+    height: 80px;
+    width: 80px;
+    background-color:rgb(0,0,0);
+    position: absolute;
+    border: 1px solid #000;
+    margin-top: 480px;
+}
+
+.g8{
+    height: 80px;
+    width: 80px;
+    background-color:rgb(255,255,255);
+    position: absolute;
+    border: 1px solid #000;
+    margin-top: 560px;
+    color: black;
+}
+
+.chess9{
+    position:absolute;
+    margin-left: 560px;
+}
+
+.a9{
+    height: 80px;
+    width: 80px;
+    background-color:rgb(255,255,255);
+    position: absolute;
+    border: 1px solid #000;
+    margin-top: 80px;
+
+}
+
+.b9{
+    height: 80px;
+    width: 80px;
+    background-color:rgb(0,0,0);
+    position: absolute;
+    border: 1px solid #000;
+    margin-top: 160px;
+}
+
+.c9{
+    height: 80px;
+    width: 80px;
+    background-color:rgb(255,255,255);
+    position: absolute;
+    border: 1px solid #000;
+    margin-top: 240px;
+}
+
+.d9{
+    height: 80px;
+    width: 80px;
+    background-color:rgb(0,0,0);
+    position: absolute;
+    border: 1px solid #000;
+    margin-top: 320px;
+}
+
+.e9{
+    height: 80px;
+    width: 80px;
+    background-color:rgb(255,255,255);
+    position: absolute;
+    border: 1px solid #000;
+    margin-top: 400px;
+}
+
+.f9{
+    height: 80px;
+    width: 80px;
+    background-color:rgb(0,0,0);
+    position: absolute;
+    border: 1px solid #000;
+    margin-top: 480px;
+}
+
+.g9{
+    height: 80px;
+    width: 80px;
+    background-color:rgb(255,255,255);
+    position: absolute;
+    border: 1px solid #000;
+    margin-top: 560px;
+    color: black;
+}
+
+body{
+    background-image: url(Uzair.JPEG);
+    height: 1000px;
+    width: 1000px;
+}
